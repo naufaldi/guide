@@ -3,13 +3,22 @@ title: Customer Units
 ---
 ## Customer Units
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/agile/customer-units/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+In Agile, Customer units is team  represent customers/market targetted by a product. 
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
+Customer Unit's Job :
+- Vision product
+- Road Map of Product
+- Creating and Maintaining Product
+- Interviewing Customer
+- Determine target market
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+Example Person / Roles :
+->Product Managers
+->Sales 
+->Marketing 
+->End User 
 
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+ Customer Unit : <a href="https://www.solutionsiq.com/agile-glossary/customer-unit/" target='_blank' rel='nofollow'>Solutions</a>
 
 
